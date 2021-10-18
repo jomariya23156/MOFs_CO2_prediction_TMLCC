@@ -39,7 +39,7 @@ We'd like to break down our processes into 4 main steps; Preprocessing, Features
 **2. Features Engineering**  
 We built a total of 9 extra features apart from the original ones (+ 15 more features from NNs)
 - **density [g/cm^3]** : ( weight [u] / volume [A^3] ) * 1.66054
-- **volume [cm^3/g] ** : volume [A^3] / ( weight [u] * 1.66054 )
+- **volume [cm^3/g]** : volume [A^3] / ( weight [u] * 1.66054 )
 - **n_atoms** : number of atoms in MOF unit cell
 - **mol_avg_mass [u]** : weight [u] / n_atoms
 - **charges** : ⅀common_charges
