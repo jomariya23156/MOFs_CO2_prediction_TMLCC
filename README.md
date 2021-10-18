@@ -8,6 +8,9 @@ It's exciting to see how we can advance the chemistry field by leveraging the po
 It's a machine learning model to predict the CO2 working capacity of Metal-organic frameworks (MOFs).
 
 ## Extra files
+### Project Overview
+- video presentation (on YouTube): [click](https://youtu.be/mqwgDQuHht8)
+- slides: [click](https://docs.google.com/presentation/d/11X6oWStzOu7CersqKKI_pe7yCVlwMTXZqOHepSVSyXE/edit?usp=sharing)
 ### Data
 - train.csv (original train set): [click](https://drive.google.com/file/d/1gvgQuUTVC53OnSRx_RMZDNJepXAOT__g/view?usp=sharing)
 - test.csv (original test set): [click](https://drive.google.com/file/d/1K6g60ZBYkH9sFaolMqyNBFSTYmBJu5M7/view?usp=sharing)
