@@ -1,5 +1,5 @@
 # MOFs_CO2_prediction_TMLCC
-All วัยรุ่นอเมริกา Team's works at Thailand Machine Learning for Chemistry Competition (TMLCC)
+All วัยรุ่นอเมริกา Team's works at Thailand Machine Learning for Chemistry Competition (TMLCC) | **6th place on the Final Phase's Leaderboard**
 
 ## Inspiration
 It's exciting to see how we can advance the chemistry field by leveraging the power of machine learning. Moreover, it would be fun to compete with other great competitors all around Thailand. That's why we formed the team and jumped in to do this work. :)
