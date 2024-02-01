@@ -11,6 +11,7 @@ It's a machine learning model to predict the CO2 working capacity of Metal-organ
 ### Project Overview
 - video presentation (on YouTube): [click](https://youtu.be/mqwgDQuHht8)
 - slides: [click](https://docs.google.com/presentation/d/11X6oWStzOu7CersqKKI_pe7yCVlwMTXZqOHepSVSyXE/edit?usp=sharing)
+- devpost: [click](https://devpost.com/software/project-9zuw48p5gokl?ref_content=my-projects-tab&ref_feature=my_projects)
 ### Data
 - train.csv (original train set): [click](https://drive.google.com/file/d/1gvgQuUTVC53OnSRx_RMZDNJepXAOT__g/view?usp=sharing)
 - test.csv (original test set): [click](https://drive.google.com/file/d/1K6g60ZBYkH9sFaolMqyNBFSTYmBJu5M7/view?usp=sharing)
